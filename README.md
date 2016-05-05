@@ -1,2 +1,3 @@
 # hello-world
-a repository
+Hi,man!
+I've been waiting for seeing you for so long!
